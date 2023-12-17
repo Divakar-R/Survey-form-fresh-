@@ -1,0 +1,24 @@
+.asterisk{
+    color:red;
+}
+.sty{
+    padding:40px 80px;
+
+}
+
+.fly{
+    margin-top: 20px;
+}
+
+.star{
+    color:orange;
+}
+
+.main{
+    background-color: rgb(223, 245, 220);
+}
+
+textarea{
+    height:8em;
+    width:80em;
+}
